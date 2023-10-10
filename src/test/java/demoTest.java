@@ -16,6 +16,6 @@ public class demoTest {
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
         driver.findElement(By.xpath("(//a[text()=\"Contact Us \"])[1]")).click();
         driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
-//        driver.quit();
+        driver.quit();
     }
 }

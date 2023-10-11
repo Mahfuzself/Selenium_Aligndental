@@ -17,7 +17,5 @@ public class demoTest {
         driver.findElement(By.xpath("(//a[text()=\"Contact Us \"])[1]")).click();
         driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
         driver.quit();
-        Pages obj = new Pages();
-
     }
 }

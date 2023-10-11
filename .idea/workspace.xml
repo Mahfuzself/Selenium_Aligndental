@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01ac5231-691b-43a2-9689-385edfc5671e" name="Changes" comment="First commit">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Pages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/demoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/demoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CareerPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/demoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Submit_Career.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,18 +35,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "E:/Automation/Selenium_Aligndental/src/test/Pages",
-    "onboarding.tips.debug.path": "E:/Automation/Selenium_Aligndental/src/main/java/org/example/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Automation/Selenium_Aligndental/src/test/Pages&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;E:/Automation/Selenium_Aligndental/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Automation\Selenium_Aligndental\src\test\Pages" />
@@ -53,8 +54,8 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="demoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demoTest" />
+    <configuration name="Submit_Career" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Submit_Career" />
       <module name="SeleniumMaven" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,7 +76,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.demoTest" />
+        <item itemvalue="Application.Submit_Career" />
       </list>
     </recent_temporary>
   </component>
